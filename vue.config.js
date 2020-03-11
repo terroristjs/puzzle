@@ -4,6 +4,6 @@ module.exports = {
     open: true
   },
   publicPath: process.env.NODE_ENV === 'production'
-  ? '/wechat/'
+  ? '/puzzle/'
   : '/'
 }
